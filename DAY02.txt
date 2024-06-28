@@ -1,4 +1,4 @@
-1)Difference between Document vs. Window Object in JavaScript
+I. Difference between Document vs. Window Object in JavaScript
 ==========================================================================================================================================
 
 This blog explores the differences between Document and Window object in JavaScript, focusing on their roles, scopes, and functionalities, as they are essential components of the Document Object Model (DOM) for efficient web development.
